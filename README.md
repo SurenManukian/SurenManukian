@@ -42,10 +42,10 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  🐍 Python obsessed<br />
-  ⚡ Self-taught Product Engineer<br />
-  ☕ Coffee first, then commit<br />
-  🚧 Building projects one commit at a time
+   🐍 Working with Python<br>
+  ⚡ Building backend projects<br>
+  📚 Always learning something new<br>
+  🚀 Growing one project at a time
 </p>
 
 <br />
