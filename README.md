@@ -19,14 +19,14 @@
     alt="Profile views" 
   />
 
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/suetx" target="_blank">
     <img 
       src="https://img.shields.io/badge/Telegram-0B0F0D?style=for-the-badge&logo=telegram&logoColor=00FF88" 
       alt="Telegram" 
     />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:surenmanukian2224@gmail.com">
     <img 
       src="https://img.shields.io/badge/Email-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00FF88" 
       alt="Email" 
