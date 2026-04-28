@@ -1,72 +1,124 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58F0F7&repeat=false&width=300&lines=Hello%2C+I'm+Suren)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=58F0F7&width=500&height=80&lines=Python+Backend+Craftsman;Self‑thought+Product+Engineer;Building+slowly+but+steadily)](https://git.io/typing-svg)
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=false&width=650&height=60&lines=Hello%2C+I%27m+Suren" 
+    alt="Hello, I'm Suren" 
+  />
 
-  <br><br>
+  <br />
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SurenManukian&label=Profile%20Views&color=58F0F7&labelColor=000000&style=for-the-badge" alt="Profile views" />
-    &nbsp;
-    <a href="https://t.me/твой_ник" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    &nbsp;
-    <a href="mailto:твоя@почта.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C853&center=true&vCenter=true&width=650&height=45&lines=Python+Backend+Developer;Self-taught+Product+Engineer;Building+slowly+but+steadily" 
+    alt="Typing SVG" 
+  />
 
-  <pre>
-    🐍&nbsp; Python obsessed
-    ⚡️&nbsp; Self‑thought Product Engineer
-    ☕️&nbsp; Coffee first, then commit
-    🚧&nbsp; 0 repos but counting
-  </pre>
+  <br /><br />
 
-  <br><br><br>
+  <img 
+    src="https://komarev.com/ghpvc/?username=SurenManukian&label=Profile%20views&color=00C853&labelColor=0B0F0D&style=for-the-badge" 
+    alt="Profile views" 
+  />
 
-  <h3 align="center">My Tech Stack</h3>
-  <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </a>
-    &nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    </a>
-    &nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    </a>
-    <br><br>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </a>
-    &nbsp;
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    </a>
-    <br><br>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </a>
-    &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </a>
-    &nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    </a>
-    <br><br>
-    <a href="https://railway.app/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-    </a>
-    &nbsp;
-    <a href="https://render.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-    </a>
-  </p>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Telegram-0B0F0D?style=for-the-badge&logo=telegram&logoColor=00FF88" 
+      alt="Telegram" 
+    />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00FF88" 
+      alt="Email" 
+    />
+  </a>
 
 </div>
+
+<br />
+
+---
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  🐍 Python obsessed<br />
+  ⚡ Self-taught Product Engineer<br />
+  ☕ Coffee first, then commit<br />
+  🚧 Building projects one commit at a time
+</p>
+
+<br />
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-0B0F0D?style=for-the-badge&logo=python&logoColor=00FF88" alt="Python" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/FastAPI-0B0F0D?style=for-the-badge&logo=fastapi&logoColor=00FF88" alt="FastAPI" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-0B0F0D?style=for-the-badge&logo=django&logoColor=00FF88" alt="Django" />
+  </a>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-0B0F0D?style=for-the-badge&logo=postgresql&logoColor=00FF88" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-0B0F0D?style=for-the-badge&logo=sqlite&logoColor=00FF88" alt="SQLite" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-0B0F0D?style=for-the-badge&logo=git&logoColor=00FF88" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-0B0F0D?style=for-the-badge&logo=docker&logoColor=00FF88" alt="Docker" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-0B0F0D?style=for-the-badge&logo=visualstudiocode&logoColor=00FF88" alt="VS Code" />
+  </a>
+</p>
+
+<h3 align="center">Deploy</h3>
+
+<p align="center">
+  <a href="https://railway.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Railway-0B0F0D?style=for-the-badge&logo=railway&logoColor=00FF88" alt="Railway" />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Render-0B0F0D?style=for-the-badge&logo=render&logoColor=00FF88" alt="Render" />
+  </a>
+</p>
+
+<br />
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=SurenManukian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6&icon_color=00FF88" 
+    alt="GitHub stats" 
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurenManukian&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6" 
+    alt="Top languages" 
+  />
+</p>
