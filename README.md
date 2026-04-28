@@ -1,57 +1,38 @@
-<!-- Заголовок с просьбой шрифта Mynor Black Condensed Italic -->
-<h1 align="center" style="font-family: 'Mynor Black Condensed Italic', 'Arial Black', Impact, sans-serif; font-style: italic;">
-  Hello, I'm Suren Manuklan
-</h1>
+# Hello, I'm Suren Manuklan
 
-<!-- Адаптированный отрывок из другого профиля (твой стиль) -->
-<p align="center">
-  <strong>
-    𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br>
-    💻 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑽𝒖𝒆.𝒋𝒔.<br>
-    🖖 𝙑𝙪𝙚.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 𝘼𝙜𝙖𝙫𝙚 𝙣𝙖𝙣𝙣𝙮<br>
-    💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
-  </strong>
-</p>
+**𝑰 ❤️ 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 @python!**
+
+💻 𝑨 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝑷𝒚𝒕𝒉𝒐𝒏.
+
+🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙛𝙖𝙣𝙖𝙩𝙞𝙘 | ⚡️ 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙛𝙞𝙧𝙨𝙩 | 🚧 𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙨𝙡𝙤𝙬𝙡𝙮
+
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒄𝒍𝒆𝒂𝒏 𝒄𝒐𝒅𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
 ---
 
 ## My Tech Stack
 
-### Core
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Vue.js
-- Nuxt.js
-- React.js
-- Next.js
+### Languages
+- Python (primary)
+- JavaScript (basics)
 
-### CSS / Preprocessors
-- Sass
-- Stylus
-- TailwindCSS
-- UnocSS
-- WindicSS
+### Frameworks & Libraries
+- FastAPI
+- Django (coming soon)
 
-### Build Tools & Code Quality
-- Webpack
-- Rollup
-- Vite
-- ESLint
-- Prettier
+### Database
+- PostgreSQL
+- SQLite
 
-### Version Control / Environment
+### Tools
 - Git
-- GitLab
-- VSCode
+- GitHub
+- VS Code
+- Docker (learning)
 
-### Deployment & Hosting
-- Netlify
-- Vercel
+### Deployment
 - Railway
 - Render
 
 ---
 
-⭐ *Следи за коммитами — зелёных квадратов будет больше*
