@@ -1,3 +1,5 @@
+привет помоги пожалйста мой профиль на гите перестал показывать красивую статистику сейчас там синие буквы
+
 <div align="center">
 
   <img 
@@ -14,12 +16,10 @@
 
   <br /><br />
 
-
   <img 
     src="https://komarev.com/ghpvc/?username=SurenManukian&label=Profile%20views&color=00C853&labelColor=0B0F0D&style=for-the-badge" 
     alt="Profile views" 
   />
-
 
   <a href="https://t.me/suetx" target="_blank">
     <img 
@@ -113,16 +113,14 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-
   <img 
     height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=SurenManukian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6&icon_color=00FF88&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=SurenManukian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6&icon_color=00FF88" 
     alt="GitHub stats" 
   />
   <img 
     height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurenManukian&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurenManukian&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6FFE6" 
     alt="Top languages" 
   />
 </p>
-
