@@ -126,7 +126,5 @@
   />
 </p>
 
-<p align="center">
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SurenManukian&theme=tokyonight&fire=00FF88&ring=00FF88&sideNums=00FF88&stroke=00FF88&background=0B0F0D" />
 </p>
