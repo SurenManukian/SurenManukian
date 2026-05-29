@@ -111,20 +111,17 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-
-  <img 
-    height="165" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurenManukian&show_icons=true&hide_border=false&theme=tokyonight&title_color=00FF88&icon_color=00FF88&bg_color=0B0F0D&text_color=E6FFE6" 
-    alt="GitHub stats" 
-  />
-
-  <img 
-    height="165" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurenManukian&layout=compact&hide_border=false&theme=tokyonight&title_color=00FF88&bg_color=0B0F0D&text_color=E6FFE6" 
-    alt="Top languages" 
-  />
-</p>
-
-
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img 
+      height="165" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurenManukian&show_icons=true&hide_border=false&theme=tokyonight&title_color=00FF88&icon_color=00FF88&bg_color=0B0F0D&text_color=E6FFE6" 
+      alt="GitHub stats" 
+    />
+    <img 
+      height="165" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurenManukian&layout=compact&hide_border=false&theme=tokyonight&title_color=00FF88&bg_color=0B0F0D&text_color=E6FFE6" 
+      alt="Top languages" 
+    />
+  </div>
+</div>
