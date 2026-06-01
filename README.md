@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/Docker-0B0F0D?style=for-the-badge&logo=docker&logoColor=00FF88" alt="Docker" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-0B0F0D?style=for-the-badge&logo=vscode&logoColor=00FF88" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS_Code-0B0F0D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBGRjg4IiBkPSJNMTI3LjE2MyA0LjE3Mkw5Ni4wNTcgMC4xMDRhNi43MSA2LjcxIDAgMCAwLTUuNjMyIDIuMjhMNjMuODM3IDI4LjIgNTMuMTczIDE5LjI0YTQuNDg3IDQuNDg3IDAgMCAwLTUuNzI4LjI2OUwzLjMgNjAuNTA0YTQuNDg0IDQuNDg0IDAgMCAwLS4wMDQgNi42NThsNDQuMTQzIDQxLjAxN2E0LjQ4OCA0LjQ4OCAwIDAgMCA1LjczLjI2N2wxMC42NjMtOC45NjIgMjYuNTkxIDI1LjgyOGE2LjY5NCA2LjY5NCAwIDAgMCA1LjYyNCAyLjI3OGwzMS4xMTItNC4wNzRhNi43MSA2LjcxIDAgMCAwIDUuODQzLTYuNjQyVjEwLjgxMWE2LjcxIDYuNzEgMCAwIDAtNS44MzktNi42NHpNOTYuMjEgMzYuNThMNjcuMjUgNjRsMjguOTYgMjcuNDJ6Ii8+PC9zdmc+" alt="VS Code" />
   </a>
 </p>
 
