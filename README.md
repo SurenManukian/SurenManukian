@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/Docker-0B0F0D?style=for-the-badge&logo=docker&logoColor=00FF88" alt="Docker" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-0B0F0D?style=for-the-badge&logo=visualstudiocode&logoColor=00FF88" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS_Code-0B0F0D?style=for-the-badge&logo=vscode&logoColor=00FF88" alt="VS Code" />
   </a>
 </p>
 
